@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uncategorized on Ankush&#39;s Blog</title>
-    <link>http://blog.ankush.io/categories/uncategorized/</link>
-    <description>Recent content in Uncategorized on Ankush&#39;s Blog</description>
+    <title>Articles on Ankush&#39;s Blog</title>
+    <link>http://blog.ankush.io/articles/</link>
+    <description>Recent content in Articles on Ankush&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.ankush.io/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ankush.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
