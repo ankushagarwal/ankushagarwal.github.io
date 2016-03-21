@@ -46,5 +46,19 @@ free to contribute, via pull requests, issues, or any other way.&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>Favorite Quotes</title>
+      <link>http://blog.ankush.io/quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.ankush.io/quotes/</guid>
+      <description>&lt;div class=&#34;custom-quote&#34;&gt;
+  &lt;h1 class=&#34;icon-quote-left&#34;&gt;&lt;/i&gt;&lt;/h1&gt;
+  &lt;p&gt;Information is useless if it is not applied to something important or if you will forget it before you have a chance to apply it.&lt;span class=&#34;author&#34;&gt; - Tim Ferris&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
