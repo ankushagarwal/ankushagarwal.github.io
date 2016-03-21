@@ -11,10 +11,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://blog.ankush.io/articles/hello/</link>
+      <link>http://blog.ankush.io/hello-world/</link>
       <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.ankush.io/articles/hello/</guid>
+      <guid>http://blog.ankush.io/hello-world/</guid>
       <description>&lt;p&gt;This is a first post to help me get started with the &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
 static site generator for this blog.&lt;/p&gt;
 
