@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ankush&#39;s Blog</title>
-    <link>http://blog.ankush.io/</link>
-    <description>Recent content on Ankush&#39;s Blog</description>
+    <title>Developers on Ankush&#39;s Blog</title>
+    <link>http://blog.ankush.io/tags/developers/</link>
+    <description>Recent content in Developers on Ankush&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.ankush.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ankush.io/tags/developers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Developer Blogs to follow</title>
@@ -54,57 +54,6 @@ Puzzles, Bay Area Hikes and Indian Culture&lt;/p&gt;
 &lt;h4 id=&#34;patrick-mckenzie-http-www-kalzumeus-com:5a4f927d35b9b4085844b024a0b9e2b6&#34;&gt;&lt;a href=&#34;http://www.kalzumeus.com/&#34;&gt;Patrick McKenzie&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;Writes about tech, hiring and salaries&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://blog.ankush.io/hello-world/</link>
-      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.ankush.io/hello-world/</guid>
-      <description>&lt;p&gt;This is a first post to help me get started with the &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
-static site generator for this blog.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img data-action=&#34;zoom&#34; src=&#34;http://blog.ankush.io/images/pusheen-code.gif&#34; style=&#34;width:80%;&#34;&gt;&lt;/img&gt;
-    &lt;figcaption&gt;Pusheen pushing website&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>http://blog.ankush.io/colophon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.ankush.io/colophon/</guid>
-      <description>&lt;p&gt;This website is written using &lt;a href=&#34;https://www.sublimetext.com/&#34;&gt;Sublime Text 3&lt;/a&gt;
-and compiled into HTML using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; - a static site generator
-written in &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; by &lt;a href=&#34;http://spf13.com/&#34;&gt;Steven Francia&lt;/a&gt;.
-This site was created by forking &lt;a href=&#34;http://nishanttotla.com/&#34;&gt;Nishant&amp;rsquo;s&lt;/a&gt; website.
-Credits for the original design go to &lt;a href=&#34;http://prakhar.me&#34;&gt;Prakhar Srivastav&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Icons on the site are courtesy of &lt;a href=&#34;http://fontello.com/&#34;&gt;Fontello&lt;/a&gt;. Typography
-uses &lt;a href=&#34;https://www.google.com/fonts/specimen/Open+Sans&#34;&gt;Open Sans&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lastly, &lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt; is used to publish on Github, where all the
-code for this website is freely available. Please feel
-free to contribute, via pull requests, issues, or any other way.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Favorite Quotes</title>
-      <link>http://blog.ankush.io/quotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.ankush.io/quotes/</guid>
-      <description>&lt;div class=&#34;custom-quote&#34;&gt;
-  &lt;h1 class=&#34;icon-quote-left&#34;&gt;&lt;/i&gt;&lt;/h1&gt;
-  &lt;p&gt;Information is useless if it is not applied to something important or if you will forget it before you have a chance to apply it.&lt;span class=&#34;author&#34;&gt; - Tim Ferris&lt;/span&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     
